@@ -1,7 +1,7 @@
 x = 1
 
 for n = 0; n < x; n++; do
-    puts   n # too many spaces?
+  puts   n # too many spaces?
     puts n
 end
 
